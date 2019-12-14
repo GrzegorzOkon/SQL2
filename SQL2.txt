@@ -1,0 +1,4 @@
+serwer   baza_danych       wolne_na_dane         wolne_w_logu
+------   -----------       ------------------    ------------------
+dd       master                18.9 KB   8.2%       294.9 KB  38.8%
+hh       master                31.1 KB   6.1%       132.4 KB  26.3%
